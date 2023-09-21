@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/saubhag90780868" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/saubhag90780868?logo=twitter&style=for-the-badge" alt="https://twitter.com/saubhag90780868" /></a> </p>
 
-- 🔭 I’m currently working on **Online Assesment**
+- 🔭 I’m currently working on **Online Assesment with Live Proctoring**
 
-- 🌱 I’m currently learning **Redux , React Native and using Real time server**
+- 🌱 I’m currently learning **Redux , React Native and Redux**
 
 - 👯 I’m looking to collaborate on **Coders House Platform**
 
-- 🤝 I’m looking for help with **Live Proctoring in Exam**
+- 🤝 I’m looking for help with **Live Proctoring in Exam and e valuation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saubhagyaranjanmallick](https://github.com/saubhagyaranjanmallick)
 
