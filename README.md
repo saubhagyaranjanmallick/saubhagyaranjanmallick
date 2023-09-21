@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saubhagya Ranjan</h1>
-<h3 align="center">A passionate Software Engineer from Bhubaneswar,India</h3>
-<img src="https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg?w=900&t=st=1695273355~exp=1695273955~hmac=8cff75f4377534e20d70f08317cff1bb6b0ccd97560b21acd3fffe8f02df7d17](https://img.freepik.com/premium-vector/web-development-coding-programming-languages-css-html-js-program-code-screen-laptop_530733-2087.jpg?w=996" alt="Girl in a jacket" width="400" align="right" height="300">
+<h3 align="center">A passionate Software Engineer & Freelancer  from Bhubaneswar,India currently working in MERN Stack</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saubhagyaranjanmallick&label=Profile%20views&color=0e75b6&style=flat" alt="saubhagyaranjanmallick" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/saubhag90780868" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/saubhag90780868?logo=twitter&style=for-the-badge" alt="https://twitter.com/saubhag90780868" /></a> </p>
